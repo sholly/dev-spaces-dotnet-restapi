@@ -1,8 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "dev-spaces-dotnet",
-			"path": "/projects/dev-spaces-dotnet"
+			"name": "dev-spaces-dotnet-restapi",
+			"path": "/projects/dev-spaces-dotnet-restapi"
 		}
 	],
 	"extensions": {
